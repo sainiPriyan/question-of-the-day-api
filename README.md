@@ -3,6 +3,9 @@
 **Live API Docs:**  
 [https://question-of-the-day-api.onrender.com/docs](https://question-of-the-day-api.onrender.com/docs)
 
+**Live API:**  
+[https://question-of-the-day-api.onrender.com](https://question-of-the-day-api.onrender.com)
+
 A FastAPI-based backend service for a **Question of the Day (QOTD)** feature used in an edtech platform.  
 Each day, a single DSA problem is published, users submit answers, and basic evaluation and statistics are recorded.
 
