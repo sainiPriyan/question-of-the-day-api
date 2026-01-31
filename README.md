@@ -41,7 +41,7 @@ app/
 
 
 
-## 🗃️ Data Models
+## Data Models
 
 ### QOTD
 - `day_number` – Sequential identifier
