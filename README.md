@@ -26,7 +26,14 @@ Each day, a single DSA problem is published, users submit answers, and basic eva
 - Per-user and per-question statistics
 - RESTful APIs with Swagger documentation
 
+## Improvements With More Time
 
+- Secure sandboxed code execution
+- Multiple test cases with partial scoring
+- Authentication and user profiles
+- PostgreSQL with Alembic migrations
+- Real leaderboard and analytics dashboard
+- Admin interface for scheduling QOTDs
 
 ##  Project Structure
 ```json
@@ -151,11 +158,3 @@ Open Swagger UI:
 http://localhost:10000/docs
 ```
 
-## Improvements With More Time
-
-- Secure sandboxed code execution
-- Multiple test cases with partial scoring
-- Authentication and user profiles
-- PostgreSQL with Alembic migrations
-- Real leaderboard and analytics dashboard
-- Admin interface for scheduling QOTDs
